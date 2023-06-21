@@ -1,0 +1,5 @@
+Nome: Carlo,
+Cognome: Conti,
+Matricola: 0258
+Esame sostenuto con valutazione: 10
+Esame sostenuto con valutazione: 30

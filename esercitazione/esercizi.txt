@@ -1,0 +1,37 @@
+1. Manipolazione di stringhe in input:
+Scrivi un programma che chieda all'utente di inserire una frase e restituisca il numero di parole presenti 
+nella frase.
+Variante: leggere da un file
+
+2. Moduli:
+Scrivi un programma che utilizzi il modulo random per generare un numero casuale compreso tra 1 e 10 e lo stampi
+
+3. Liste:
+Scrivi un programma che prenda in input una lista di numeri e restituisca una lista contenente solo i numeri pari 
+presenti nella lista.
+
+4. File:
+Scrivi un programma che legga un file di testo chiamato "input.txt" e stampi il contenuto del file.
+
+5. Tuple:
+Scrivi un programma che definisca una tupla di colori e stampi tutti i colori presenti nella tupla uno per uno.
+
+6. Set:
+Scrivi un programma che prenda in input una lista di numeri e restituisca un set contenente solo i numeri unici 
+presenti nella lista.
+
+7. Dizionari:
+Scrivi un programma che prenda in input una lista di parole e restituisca un dizionario in cui le parole sono le chiavi 
+e la loro lunghezza è il valore corrispondente.
+
+8. Classi:
+Definisci una classe Shape con un metodo area e una classe derivata Rectangle che estende la classe Shape e implementa 
+il metodo area per calcolare l'area del rettangolo.
+
+9. Polimorfismo:
+Definisci una classe Shape con un metodo area e una classe derivata Circle che estende la classe Shape e implementa il 
+metodo area per calcolare l'area del cerchio.
+
+10. Gestione delle eccezioni:
+Scrivi un programma che prenda in input due numeri e restituisca il risultato della divisione tra i due numeri. 
+Gestisci l'eccezione se l'utente inserisce 0 come secondo numero.

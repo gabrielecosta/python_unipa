@@ -1,0 +1,6 @@
+Nome: Gabriele, Cognome: Costa, Matricola: 0711
+Materia: Reti, Voto: 30
+Materia: Ids, Voto: 30
+Materia: Analisi, Voto: 23
+Media aritmetica: 27.666666666666668
+Università degli Studi di Palermo

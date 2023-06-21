@@ -1,0 +1,3 @@
+Nome: Giuseppe, Cognome: Verdi, Matricola: 1025
+Materia: Analisi, Codice: 015
+Università degli Studi di Palermo

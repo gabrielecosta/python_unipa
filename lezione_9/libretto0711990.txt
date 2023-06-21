@@ -1,0 +1,6 @@
+Nome: gabriele,
+Cognome: costa,
+Matricola: 0711990
+Esame sostenuto con valutazione: 10
+Esame sostenuto con valutazione: 30
+Esame sostenuto con valutazione: 20

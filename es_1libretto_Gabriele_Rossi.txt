@@ -1,0 +1,5 @@
+Nome: Gabriele, Cognome: Rossi, Matricola: 0712
+Materia: Analisi, Voto: 25
+Materia: Tds, Voto: 30
+Media aritmetica: 27.5
+Università degli Studi di Palermo
